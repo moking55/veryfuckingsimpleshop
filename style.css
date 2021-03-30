@@ -1,0 +1,23 @@
+/* import font from fonts.google.com */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+body {
+    padding: 0px;
+    margin: 0px;
+    overflow: visible;
+    font-family: 'Kanit', sans-serif;
+}
+
+.bg {
+    width: 100vw;
+    height: 30%;
+    position: absolute;
+    background: silver;
+}
+table {
+    position: relative;
+    background: #e0e0e0;
+}
+table tr td img{
+    display: block;
+}
